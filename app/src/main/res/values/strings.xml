@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">LinearLayoutDesign</string>
+    <string name="name">Ahmed hassan</string>
+    <string name="hours">3 hr</string>
+    <string name="jop_title">Engineer</string>
+    <string name="image_profile">image_profile</string>
+    <string name="nationality">Russian</string>
+    <string name="location">UK</string>
+    <string name="duration">5 Days ago</string>
+    <string name="reviews">(150 Reviews)</string>
+    <string name="rate">4.5</string>
 </resources>
